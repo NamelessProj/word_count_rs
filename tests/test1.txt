@@ -1,0 +1,1 @@
+Should return: 1 line; 8 words; 46 characters;
